@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Haas Prep</title>
+    <link>https://yitzybitzyspider.github.io/haas-prep/</link>
+    <language>en-us</language>
+    <copyright>Copyright 2026 Yitzy Rosenberg</copyright>
+    <description>Plain-English prep for upcoming Berkeley Haas FTMBA lectures. Each episode walks through the assigned material for one class session so you arrive ready to think instead of translate.
+
+Every episode names its sources in the description and in the opening. Episodes are original explanation written by a student, not recordings or readings of any course material. Nothing here reproduces slides, cases, or textbook text.
+
+This is an independent student study project. It is not affiliated with, produced by, or endorsed by the Berkeley Haas School of Business or the University of California.</description>
+    <lastBuildDate>Mon, 31 Aug 2026 04:12:01 +0000</lastBuildDate>
+    <itunes:author>Yitzy Rosenberg</itunes:author>
+    <itunes:summary>Plain-English prep for upcoming Berkeley Haas FTMBA lectures. Each episode walks through the assigned material for one class session so you arrive ready to think instead of translate.
+
+Every episode names its sources in the description and in the opening. Episodes are original explanation written by a student, not recordings or readings of any course material. Nothing here reproduces slides, cases, or textbook text.
+
+This is an independent student study project. It is not affiliated with, produced by, or endorsed by the Berkeley Haas School of Business or the University of California.</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://yitzybitzyspider.github.io/haas-prep/cover.png"/>
+    <itunes:category text="Education">
+      <itunes:category text="Courses"/>
+    </itunes:category>
+    <itunes:owner>
+      <itunes:name>Yitzy Rosenberg</itunes:name>
+      <itunes:email>yitzy305@gmail.com</itunes:email>
+    </itunes:owner>
+    <item>
+      <title>Data and Decisions, Class 3: Sampling Variation and Sampling Bias</title>
+      <description>Bias moves the center, variation is the spread. Why averaging shrinks uncertainty by the square root of n, why the Central Limit Theorem makes the normal curve unavoidable, and why more data cannot fix a bad sample.
+
+Sources used to write this episode:
+- Stine &amp; Foster 3e ch 14.1 (bookshelf)
+- 8/28 GSI discussion transcript
+- 8/26 Class 2 lecture transcript
+- Class 3 Canvas page
+
+Note: No assigned reading for this session; ch 14.1 used as the topic-matching chapter, stated in the episode
+
+Note: Slides post morning of class
+
+Original student study material. Not affiliated with or endorsed by Berkeley Haas.</description>
+      <itunes:summary>Bias moves the center, variation is the spread. Why averaging shrinks uncertainty by the square root of n, why the Central Limit Theorem makes the normal curve unavoidable, and why more data cannot fix a bad sample.
+
+Sources used to write this episode:
+- Stine &amp; Foster 3e ch 14.1 (bookshelf)
+- 8/28 GSI discussion transcript
+- 8/26 Class 2 lecture transcript
+- Class 3 Canvas page
+
+Note: No assigned reading for this session; ch 14.1 used as the topic-matching chapter, stated in the episode
+
+Note: Slides post morning of class
+
+Original student study material. Not affiliated with or endorsed by Berkeley Haas.</itunes:summary>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">haas-prep-2026-08-31-mba200s</guid>
+      <enclosure url="https://yitzybitzyspider.github.io/haas-prep/haas-prep-200s-class3.mp3" length="3904992" type="audio/mpeg"/>
+      <itunes:duration>648</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Micro, Lecture 3: Cost Curves and Supply</title>
+      <description>Produce where price equals marginal cost, know when to shut down, and see how John Deere's cost system made an efficient plant look like the most expensive in the industry.
+
+Sources used to write this episode:
+- John Deere Component Works (A), HBS 9-187-107
+- The High Cost of Low Wages, Cascio HBR 2006
+- Walmart tariff price hikes, WSJ May 2025
+- MIC 4.6 Average and Marginal Costs (Panopto transcript)
+- Lecture 3 Canvas page
+
+Note: Lecture 3 slides post shortly before class
+
+Original student study material. Not affiliated with or endorsed by Berkeley Haas.</description>
+      <itunes:summary>Produce where price equals marginal cost, know when to shut down, and see how John Deere's cost system made an efficient plant look like the most expensive in the industry.
+
+Sources used to write this episode:
+- John Deere Component Works (A), HBS 9-187-107
+- The High Cost of Low Wages, Cascio HBR 2006
+- Walmart tariff price hikes, WSJ May 2025
+- MIC 4.6 Average and Marginal Costs (Panopto transcript)
+- Lecture 3 Canvas page
+
+Note: Lecture 3 slides post shortly before class
+
+Original student study material. Not affiliated with or endorsed by Berkeley Haas.</itunes:summary>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">haas-prep-2026-08-31-mba201a</guid>
+      <enclosure url="https://yitzybitzyspider.github.io/haas-prep/haas-prep-201a-lecture3.mp3" length="4592448" type="audio/mpeg"/>
+      <itunes:duration>768</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Haas Prep, Thursday August 27: Decision Biases and the Balance Sheet</title>
+      <description>
+
+Sources used to write this episode:
+- Moore &amp; Bazerman, Appendix A from Decision Leadership (vault .docx)
+- MBA 205 Class 2 Canvas page
+- MBA 202 Topic 02 - Balance Sheet class notes (vault PDF)
+- MBA 202 Practice Problem 1 - Balance Sheet (vault .docx)
+- Obsidian index notes for all three classes
+
+Note: INDENG 240 syllabus Google Doc requires Berkeley login, not accessible; 240 covered briefly by agreement
+
+Note: MBA 205 Panopto videos (Bayesian Belief Updating, Thinking probabilistically) not viewable; concepts covered from knowledge
+
+Note: MBA 205 Class 2 Google Slides restricted to Berkeley account
+
+Original student study material. Not affiliated with or endorsed by Berkeley Haas.</description>
+      <itunes:summary>
+
+Sources used to write this episode:
+- Moore &amp; Bazerman, Appendix A from Decision Leadership (vault .docx)
+- MBA 205 Class 2 Canvas page
+- MBA 202 Topic 02 - Balance Sheet class notes (vault PDF)
+- MBA 202 Practice Problem 1 - Balance Sheet (vault .docx)
+- Obsidian index notes for all three classes
+
+Note: INDENG 240 syllabus Google Doc requires Berkeley login, not accessible; 240 covered briefly by agreement
+
+Note: MBA 205 Panopto videos (Bayesian Belief Updating, Thinking probabilistically) not viewable; concepts covered from knowledge
+
+Note: MBA 205 Class 2 Google Slides restricted to Berkeley account
+
+Original student study material. Not affiliated with or endorsed by Berkeley Haas.</itunes:summary>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">haas-prep-2026-08-27-mba205-mba202-indeng240</guid>
+      <enclosure url="https://yitzybitzyspider.github.io/haas-prep/haas-prep-2026-08-27.mp3" length="9673200" type="audio/mpeg"/>
+      <itunes:duration>1620</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Haas Prep, Wednesday August 26: Economic Cost and Samples &amp; Surveys</title>
+      <description>
+
+Sources used to write this episode:
+- Farms in Tokyo (Hermalin case, vault)
+- The Real Lessons from Kodak's Decline (Shih, MIT SMR Summer 2016, vault)
+- MBA 201A Lecture 2 slides (posted in advance)
+- MBA 200S Class 2 Canvas page, Chapter 13 assignment
+- Obsidian index notes for both classes
+
+Original student study material. Not affiliated with or endorsed by Berkeley Haas.</description>
+      <itunes:summary>
+
+Sources used to write this episode:
+- Farms in Tokyo (Hermalin case, vault)
+- The Real Lessons from Kodak's Decline (Shih, MIT SMR Summer 2016, vault)
+- MBA 201A Lecture 2 slides (posted in advance)
+- MBA 200S Class 2 Canvas page, Chapter 13 assignment
+- Obsidian index notes for both classes
+
+Original student study material. Not affiliated with or endorsed by Berkeley Haas.</itunes:summary>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">haas-prep-2026-08-26-mba201a-mba200s</guid>
+      <enclosure url="https://yitzybitzyspider.github.io/haas-prep/haas-prep-2026-08-26.mp3" length="8405856" type="audio/mpeg"/>
+      <itunes:duration>0</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Data &amp; Decisions, Class 1 Prep: Course Introduction (Ch. 1-12 review)</title>
+      <description>
+
+Original student study material. Not affiliated with or endorsed by Berkeley Haas.</description>
+      <itunes:summary>
+
+Original student study material. Not affiliated with or endorsed by Berkeley Haas.</itunes:summary>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">haas-prep-2026-08-24-ep</guid>
+      <enclosure url="https://yitzybitzyspider.github.io/haas-prep/ep01.mp3" length="5602896" type="audio/mpeg"/>
+      <itunes:duration>936</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
