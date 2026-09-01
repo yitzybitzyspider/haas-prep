@@ -12,7 +12,7 @@
 Every episode names its sources in the description and in the opening. Episodes are original explanation written by a student, not recordings or readings of any course material. Nothing here reproduces slides, cases, or textbook text.
 
 This is an independent student study project. It is not affiliated with, produced by, or endorsed by the Berkeley Haas School of Business or the University of California.</description>
-    <lastBuildDate>Tue, 01 Sep 2026 03:57:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 04:12:17 +0000</lastBuildDate>
     <itunes:author>Yitzy Rosenberg</itunes:author>
     <itunes:summary>Plain-English prep for upcoming Berkeley Haas FTMBA lectures. Each episode walks through the assigned material for one class session so you arrive ready to think instead of translate.
 
@@ -100,6 +100,39 @@ Original student study material. Not affiliated with or endorsed by Berkeley Haa
       <guid isPermaLink="false">haas-prep-2026-09-01-mba202</guid>
       <enclosure url="https://yitzybitzyspider.github.io/haas-prep/haas-prep-202-topic3.mp3" length="3090096" type="audio/mpeg"/>
       <itunes:duration>516</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Tue Sep 1 · INDENG 240 Lecture 2: A First Linear Programming Example</title>
+      <description>Meets 11:00am, Valley Life Sciences.
+
+A coffee shop with limited milk and espresso. Why making all of the profitable drink strands the other ingredient, how decisions, constraints and an objective turn that into a solvable problem, and why the answer always sits at a corner.
+
+Sources used to write this episode:
+- Kerger pre-notes, Lecture 2 (handwritten, read via page rendering)
+- INDENG 240 Day 1 deck
+- Obsidian index note
+
+Note: Pre-notes are a fill-in-the-blank skeleton; the episode covers the setup and questions, not answers not yet given
+
+Original student study material. Not affiliated with or endorsed by Berkeley Haas.</description>
+      <itunes:summary>Meets 11:00am, Valley Life Sciences.
+
+A coffee shop with limited milk and espresso. Why making all of the profitable drink strands the other ingredient, how decisions, constraints and an objective turn that into a solvable problem, and why the answer always sits at a corner.
+
+Sources used to write this episode:
+- Kerger pre-notes, Lecture 2 (handwritten, read via page rendering)
+- INDENG 240 Day 1 deck
+- Obsidian index note
+
+Note: Pre-notes are a fill-in-the-blank skeleton; the episode covers the setup and questions, not answers not yet given
+
+Original student study material. Not affiliated with or endorsed by Berkeley Haas.</itunes:summary>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">haas-prep-2026-09-01-indeng240</guid>
+      <enclosure url="https://yitzybitzyspider.github.io/haas-prep/haas-prep-240-lecture2.mp3" length="2158848" type="audio/mpeg"/>
+      <itunes:duration>360</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
