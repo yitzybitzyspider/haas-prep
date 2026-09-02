@@ -12,7 +12,7 @@
 Every episode names its sources in the description and in the opening. Episodes are original explanation written by a student, not recordings or readings of any course material. Nothing here reproduces slides, cases, or textbook text.
 
 This is an independent student study project. It is not affiliated with, produced by, or endorsed by the Berkeley Haas School of Business or the University of California.</description>
-    <lastBuildDate>Tue, 01 Sep 2026 04:12:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 04:08:18 +0000</lastBuildDate>
     <itunes:author>Yitzy Rosenberg</itunes:author>
     <itunes:summary>Plain-English prep for upcoming Berkeley Haas FTMBA lectures. Each episode walks through the assigned material for one class session so you arrive ready to think instead of translate.
 
@@ -29,6 +29,39 @@ This is an independent student study project. It is not affiliated with, produce
       <itunes:name>Yitzy Rosenberg</itunes:name>
       <itunes:email>yitzy305@gmail.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Wed Sep 2 · MBA 200S Class 4: Control Limits and Type One and Type Two Error</title>
+      <description>Meets Axe 9:00am / Oski 2:00pm, N570 Chou Hall.
+
+Draw two lines on a chart and you have to choose which mistake you would rather make. Stopping a healthy factory versus letting a broken one run, why you can only reduce one error by accepting more of the other, and why the person making the call feels one of them far more than the other.
+
+Sources used to write this episode:
+- Stine &amp; Foster 3e ch 14 sections 1 and 2 (bookshelf, assigned)
+- MBA 200S Class 4 Canvas page
+- 8/28 GSI discussion transcript
+
+Note: Class 4 slides and check-as-you-go exercises are locked by Canvas until class
+
+Original student study material. Not affiliated with or endorsed by Berkeley Haas.</description>
+      <itunes:summary>Meets Axe 9:00am / Oski 2:00pm, N570 Chou Hall.
+
+Draw two lines on a chart and you have to choose which mistake you would rather make. Stopping a healthy factory versus letting a broken one run, why you can only reduce one error by accepting more of the other, and why the person making the call feels one of them far more than the other.
+
+Sources used to write this episode:
+- Stine &amp; Foster 3e ch 14 sections 1 and 2 (bookshelf, assigned)
+- MBA 200S Class 4 Canvas page
+- 8/28 GSI discussion transcript
+
+Note: Class 4 slides and check-as-you-go exercises are locked by Canvas until class
+
+Original student study material. Not affiliated with or endorsed by Berkeley Haas.</itunes:summary>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">haas-prep-2026-09-02-mba200s</guid>
+      <enclosure url="https://yitzybitzyspider.github.io/haas-prep/haas-prep-200s-class4.mp3" length="2268576" type="audio/mpeg"/>
+      <itunes:duration>378</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Tue Sep 1 · MBA 205 Class 3: Knowing Yourself and Others</title>
       <description>Meets 9:00am, N300 Chou Hall.
