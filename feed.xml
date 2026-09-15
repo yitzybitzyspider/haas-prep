@@ -12,7 +12,7 @@
 Every episode names its sources in the description and in the opening. Episodes are original explanation written by a student, not recordings or readings of any course material. Nothing here reproduces slides, cases, or textbook text.
 
 This is an independent student study project. It is not affiliated with, produced by, or endorsed by the Berkeley Haas School of Business or the University of California.</description>
-    <lastBuildDate>Tue, 15 Sep 2026 05:03:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 05:12:20 +0000</lastBuildDate>
     <itunes:author>Yitzy Rosenberg</itunes:author>
     <itunes:summary>Plain-English prep for upcoming Berkeley Haas FTMBA lectures. Each episode walks through the assigned material for one class session so you arrive ready to think instead of translate.
 
@@ -67,6 +67,45 @@ Original student study material. Not affiliated with or endorsed by Berkeley Haa
       <guid isPermaLink="false">haas-prep-2026-09-15-mba202</guid>
       <enclosure url="https://yitzybitzyspider.github.io/haas-prep/haas-prep-202-class7.mp3" length="3433536" type="audio/mpeg"/>
       <itunes:duration>570</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Tue Sep 15 · INDENG 240 Lecture 6: Duality, Catching Up Before It Continues</title>
+      <description>Meets 11:00am, Genetics and Plant Bio 100.
+
+An impossible car factory proved impossible with nothing but weighted constraints, the same trick turned into the best possible ceiling on profit, and the coffee shop's dual landing exactly on its best plan. A labelled consolidation of Lecture 5, since Lecture 6 pre-notes post the morning of class.
+
+Sources used to write this episode:
+- IEOR 240 typed lecture notes, updated through Lecture 5 (Sep 13)
+- Notes, Lecture 5, Sept 10, duality towards optimality and infeasibility certificates (handwritten, rendered)
+- Ed Discussion threads through Sep 12 (reminders post, HW1 announcement, classroom change)
+- Discussion 3, Solving LPs with Gurobi
+
+Note: Lecture 6 pre-notes not posted; episode consolidates Lecture 5 and says so
+
+Note: What Lecture 6 covers is inferred from where the Lecture 5 notes stop
+
+Original student study material. Not affiliated with or endorsed by Berkeley Haas.</description>
+      <itunes:summary>Meets 11:00am, Genetics and Plant Bio 100.
+
+An impossible car factory proved impossible with nothing but weighted constraints, the same trick turned into the best possible ceiling on profit, and the coffee shop's dual landing exactly on its best plan. A labelled consolidation of Lecture 5, since Lecture 6 pre-notes post the morning of class.
+
+Sources used to write this episode:
+- IEOR 240 typed lecture notes, updated through Lecture 5 (Sep 13)
+- Notes, Lecture 5, Sept 10, duality towards optimality and infeasibility certificates (handwritten, rendered)
+- Ed Discussion threads through Sep 12 (reminders post, HW1 announcement, classroom change)
+- Discussion 3, Solving LPs with Gurobi
+
+Note: Lecture 6 pre-notes not posted; episode consolidates Lecture 5 and says so
+
+Note: What Lecture 6 covers is inferred from where the Lecture 5 notes stop
+
+Original student study material. Not affiliated with or endorsed by Berkeley Haas.</itunes:summary>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">haas-prep-2026-09-15-indeng240</guid>
+      <enclosure url="https://yitzybitzyspider.github.io/haas-prep/haas-prep-240-lecture6.mp3" length="2589120" type="audio/mpeg"/>
+      <itunes:duration>432</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
