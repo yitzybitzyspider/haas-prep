@@ -12,7 +12,7 @@
 Every episode names its sources in the description and in the opening. Episodes are original explanation written by a student, not recordings or readings of any course material. Nothing here reproduces slides, cases, or textbook text.
 
 This is an independent student study project. It is not affiliated with, produced by, or endorsed by the Berkeley Haas School of Business or the University of California.</description>
-    <lastBuildDate>Mon, 21 Sep 2026 03:22:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 05:30:41 +0000</lastBuildDate>
     <itunes:author>Yitzy Rosenberg</itunes:author>
     <itunes:summary>Plain-English prep for upcoming Berkeley Haas FTMBA lectures. Each episode walks through the assigned material for one class session so you arrive ready to think instead of translate.
 
@@ -29,6 +29,51 @@ This is an independent student study project. It is not affiliated with, produce
       <itunes:name>Yitzy Rosenberg</itunes:name>
       <itunes:email>yitzy305@gmail.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Tue Sep 22 · MBA 202 Class 9: Booking the Refund Before It Happens</title>
+      <description>Meets 2:00pm, N470 Chou Hall.
+
+Sales returns and warranties as the same matching-principle move: estimate the future giveback at the moment of sale, book net revenue and an allowance now, so the actual return later is a non-event for profit. Dell's warranty liability, the socks worked example, Nvidia's real returns reserve, and the Costco big-screen-TV story.
+
+Sources used to write this episode:
+- Topic 06 - Receivables and Returns (course notes), read in full
+- Practice Problem 4 solution (Nvidia sales returns reserve, from its 10-K)
+- Libby Financial Accounting, 11th edition, Chapter 6 (course cites 10th edition; 10th-edition narrative not accessible, only its solutions manual)
+- 10th edition McGraw-Hill solutions manual, Chapter 6
+- Week 5 - Announcements (Omri Even-Tov, Sep 17), which named the session topic and focus
+- Sundays with Omri and Faculty Lunch Sign Up announcements (logistics)
+- 202 vault index note
+
+Note: 10th-edition narrative textbook (course's own cited pages, 296-315) is CalNet-gated and was not opened; substituted the 11th edition plus the 10th-edition solutions manual
+
+Note: Quiz 3 (Sep 29) scope not yet announced, not covered
+
+Original student study material. Not affiliated with or endorsed by Berkeley Haas.</description>
+      <itunes:summary>Meets 2:00pm, N470 Chou Hall.
+
+Sales returns and warranties as the same matching-principle move: estimate the future giveback at the moment of sale, book net revenue and an allowance now, so the actual return later is a non-event for profit. Dell's warranty liability, the socks worked example, Nvidia's real returns reserve, and the Costco big-screen-TV story.
+
+Sources used to write this episode:
+- Topic 06 - Receivables and Returns (course notes), read in full
+- Practice Problem 4 solution (Nvidia sales returns reserve, from its 10-K)
+- Libby Financial Accounting, 11th edition, Chapter 6 (course cites 10th edition; 10th-edition narrative not accessible, only its solutions manual)
+- 10th edition McGraw-Hill solutions manual, Chapter 6
+- Week 5 - Announcements (Omri Even-Tov, Sep 17), which named the session topic and focus
+- Sundays with Omri and Faculty Lunch Sign Up announcements (logistics)
+- 202 vault index note
+
+Note: 10th-edition narrative textbook (course's own cited pages, 296-315) is CalNet-gated and was not opened; substituted the 11th edition plus the 10th-edition solutions manual
+
+Note: Quiz 3 (Sep 29) scope not yet announced, not covered
+
+Original student study material. Not affiliated with or endorsed by Berkeley Haas.</itunes:summary>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">haas-prep-2026-09-22-mba202</guid>
+      <enclosure url="https://yitzybitzyspider.github.io/haas-prep/haas-prep-202-class9.mp3" length="2390400" type="audio/mpeg"/>
+      <itunes:duration>396</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Mon Sep 21 · MBA 201A Lecture 8: The Long Run and Lessons in Competition</title>
       <description>Meets 2:00pm, N370 Chou Hall.
