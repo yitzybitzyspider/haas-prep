@@ -12,7 +12,7 @@
 Every episode names its sources in the description and in the opening. Episodes are original explanation written by a student, not recordings or readings of any course material. Nothing here reproduces slides, cases, or textbook text.
 
 This is an independent student study project. It is not affiliated with, produced by, or endorsed by the Berkeley Haas School of Business or the University of California.</description>
-    <lastBuildDate>Tue, 22 Sep 2026 05:30:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 05:39:37 +0000</lastBuildDate>
     <itunes:author>Yitzy Rosenberg</itunes:author>
     <itunes:summary>Plain-English prep for upcoming Berkeley Haas FTMBA lectures. Each episode walks through the assigned material for one class session so you arrive ready to think instead of translate.
 
@@ -71,6 +71,45 @@ Original student study material. Not affiliated with or endorsed by Berkeley Haa
       <guid isPermaLink="false">haas-prep-2026-09-22-mba202</guid>
       <enclosure url="https://yitzybitzyspider.github.io/haas-prep/haas-prep-202-class9.mp3" length="2390400" type="audio/mpeg"/>
       <itunes:duration>396</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Tue Sep 22 · MBA 205 Class 9: Does Ailon Discriminate</title>
+      <description>Meets 9:00am, N300 Chou Hall.
+
+The Ailon Technologies case (an 8% unexplained gender pay gap that survives controls, the rules-based pay defense, and the applicant-pipeline and performance-rating data that complicate it) paired with Banaji and Greenwald's Implicit Association Test chapter as a candidate mechanism for a bias nobody in the story needs to consciously hold.
+
+Sources used to write this episode:
+- Ailon Technologies: Pay, Pipelines, and the Questions of Discrimination (case), read in full
+- Into the Blindspot, ch. 3 of Blind Spot (Banaji &amp; Greenwald), read in full from the assigned copy
+- 205 vault index note
+- course syllabus (confirms 2026-09-22 = Class 9, since the Canvas page and calendar do not)
+
+Note: No announcement posted since Class 8, nothing new to fold in
+
+Note: Grant a wish survey and IAT-taking assignment instructions not read (Canvas-only, mechanics not content)
+
+Original student study material. Not affiliated with or endorsed by Berkeley Haas.</description>
+      <itunes:summary>Meets 9:00am, N300 Chou Hall.
+
+The Ailon Technologies case (an 8% unexplained gender pay gap that survives controls, the rules-based pay defense, and the applicant-pipeline and performance-rating data that complicate it) paired with Banaji and Greenwald's Implicit Association Test chapter as a candidate mechanism for a bias nobody in the story needs to consciously hold.
+
+Sources used to write this episode:
+- Ailon Technologies: Pay, Pipelines, and the Questions of Discrimination (case), read in full
+- Into the Blindspot, ch. 3 of Blind Spot (Banaji &amp; Greenwald), read in full from the assigned copy
+- 205 vault index note
+- course syllabus (confirms 2026-09-22 = Class 9, since the Canvas page and calendar do not)
+
+Note: No announcement posted since Class 8, nothing new to fold in
+
+Note: Grant a wish survey and IAT-taking assignment instructions not read (Canvas-only, mechanics not content)
+
+Original student study material. Not affiliated with or endorsed by Berkeley Haas.</itunes:summary>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">haas-prep-2026-09-22-mba205</guid>
+      <enclosure url="https://yitzybitzyspider.github.io/haas-prep/haas-prep-205-class9.mp3" length="2657808" type="audio/mpeg"/>
+      <itunes:duration>444</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
