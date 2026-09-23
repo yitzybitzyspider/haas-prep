@@ -12,7 +12,7 @@
 Every episode names its sources in the description and in the opening. Episodes are original explanation written by a student, not recordings or readings of any course material. Nothing here reproduces slides, cases, or textbook text.
 
 This is an independent student study project. It is not affiliated with, produced by, or endorsed by the Berkeley Haas School of Business or the University of California.</description>
-    <lastBuildDate>Wed, 23 Sep 2026 01:22:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 01:33:11 +0000</lastBuildDate>
     <itunes:author>Yitzy Rosenberg</itunes:author>
     <itunes:summary>Plain-English prep for upcoming Berkeley Haas FTMBA lectures. Each episode walks through the assigned material for one class session so you arrive ready to think instead of translate.
 
@@ -67,6 +67,43 @@ Original student study material. Not affiliated with or endorsed by Berkeley Haa
       <guid isPermaLink="false">haas-prep-2026-09-23-mba201a</guid>
       <enclosure url="https://yitzybitzyspider.github.io/haas-prep/haas-prep-201a-lecture9.mp3" length="3625200" type="audio/mpeg"/>
       <itunes:duration>606</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Wed Sep 23 · MBA 200S Class 10: Building Regression Models</title>
+      <description>Meets Axe 9:00am, Oski 2:00pm, N570 Chou Hall.
+
+Stine and Foster Chapter 24: model building from theory (the Sony CAPM regression), finding variables from substance, looking first with correlation and scatterplot matrices, what collinearity does to partial slopes (precision, not correctness), the variance inflation factor, the five signs of collinearity, and the three remedies (remove one at a time, re-express, do nothing). Both worked examples: the phone magazine age-income sign flip and the pharmacy birth-rate sign flip. Heads up: Deliverable 3 due Thursday, Deliverable 4 out Wednesday.
+
+Sources used to write this episode:
+- Stine and Foster 3e Chapter 24, Building Regression Models (bookshelf, read in full)
+- Lecture 9 slides (Sep 21), for the bridge
+- Class 10 and Class 11 Canvas pages
+- Shreya announcement 'Deliverable #3 deadline moved to 09/24' (Sep 18)
+- 200S vault index note
+
+Note: Lecture 10 slides locked for students on 2026-09-22 evening (Canvas API: locked_for_user, empty url); they post the morning of class
+
+Original student study material. Not affiliated with or endorsed by Berkeley Haas.</description>
+      <itunes:summary>Meets Axe 9:00am, Oski 2:00pm, N570 Chou Hall.
+
+Stine and Foster Chapter 24: model building from theory (the Sony CAPM regression), finding variables from substance, looking first with correlation and scatterplot matrices, what collinearity does to partial slopes (precision, not correctness), the variance inflation factor, the five signs of collinearity, and the three remedies (remove one at a time, re-express, do nothing). Both worked examples: the phone magazine age-income sign flip and the pharmacy birth-rate sign flip. Heads up: Deliverable 3 due Thursday, Deliverable 4 out Wednesday.
+
+Sources used to write this episode:
+- Stine and Foster 3e Chapter 24, Building Regression Models (bookshelf, read in full)
+- Lecture 9 slides (Sep 21), for the bridge
+- Class 10 and Class 11 Canvas pages
+- Shreya announcement 'Deliverable #3 deadline moved to 09/24' (Sep 18)
+- 200S vault index note
+
+Note: Lecture 10 slides locked for students on 2026-09-22 evening (Canvas API: locked_for_user, empty url); they post the morning of class
+
+Original student study material. Not affiliated with or endorsed by Berkeley Haas.</itunes:summary>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">haas-prep-2026-09-23-mba200s</guid>
+      <enclosure url="https://yitzybitzyspider.github.io/haas-prep/haas-prep-200s-class10.mp3" length="3672144" type="audio/mpeg"/>
+      <itunes:duration>612</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
