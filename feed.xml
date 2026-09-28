@@ -12,7 +12,7 @@
 Every episode names its sources in the description and in the opening. Episodes are original explanation written by a student, not recordings or readings of any course material. Nothing here reproduces slides, cases, or textbook text.
 
 This is an independent student study project. It is not affiliated with, produced by, or endorsed by the Berkeley Haas School of Business or the University of California.</description>
-    <lastBuildDate>Mon, 28 Sep 2026 01:30:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 01:54:44 +0000</lastBuildDate>
     <itunes:author>Yitzy Rosenberg</itunes:author>
     <itunes:summary>Plain-English prep for upcoming Berkeley Haas FTMBA lectures. Each episode walks through the assigned material for one class session so you arrive ready to think instead of translate.
 
@@ -63,6 +63,57 @@ Original student study material. Not affiliated with or endorsed by Berkeley Haa
       <guid isPermaLink="false">haas-prep-2026-09-28-mba200s</guid>
       <enclosure url="https://yitzybitzyspider.github.io/haas-prep/haas-prep-200s-class11.mp3" length="3662064" type="audio/mpeg"/>
       <itunes:duration>612</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Mon Sep 28 · MBA 201A Lecture 10: Game Theory as Strategic Thinking</title>
+      <description>Meets 2:00pm, N370 Chou Hall.
+
+Payoff tables, best response, dominant strategy, Nash equilibrium; Joe and Mick coordination game (two equilibria); Erik and Lyle prisoner's dilemma; Airbus/Boeing output as a prisoner's dilemma; dominated strategies (background, labeled); auctions as a pricing tool, private vs common values, winner's curse, first price shading vs truthful bidding in second price, English/Dutch/reverse formats; Group AI Memo requirements tied to the rivals question. Logistics: warm-up and PP4 attestation due Sun 11:59pm, midterm regrade request Fri Oct 2, memo due Oct 17, Lecture 11 readings.
+
+Sources used to write this episode:
+- Panopto captions: MIC 7.1 Game Theory, MIC 7.2 Prisoner's Dilemma (Kelsey Jack), MIC 3.8 Auctions (Gautam Rao), the three videos on the Lecture 10 page
+- Group AI Memo assignment description PDF (Oprea)
+- Lecture 10 and Lecture 11 Canvas pages
+- 201A syllabus Lecture 10 line
+- Canvas assignment list (Class Preparation Item 3, PP4 attestation, midterm regrade request, memo upload)
+- 201A vault index note
+
+Note: Lecture 10 slides post shortly before class; not read
+
+Note: Warm-up exercise (one-question Canvas survey) not readable via student API; not described
+
+Note: Dominated strategies not in the videos; taught as labeled background
+
+Note: Optional Hermalin pp. 111-116 and SM Ch. 10 not used
+
+Original student study material. Not affiliated with or endorsed by Berkeley Haas.</description>
+      <itunes:summary>Meets 2:00pm, N370 Chou Hall.
+
+Payoff tables, best response, dominant strategy, Nash equilibrium; Joe and Mick coordination game (two equilibria); Erik and Lyle prisoner's dilemma; Airbus/Boeing output as a prisoner's dilemma; dominated strategies (background, labeled); auctions as a pricing tool, private vs common values, winner's curse, first price shading vs truthful bidding in second price, English/Dutch/reverse formats; Group AI Memo requirements tied to the rivals question. Logistics: warm-up and PP4 attestation due Sun 11:59pm, midterm regrade request Fri Oct 2, memo due Oct 17, Lecture 11 readings.
+
+Sources used to write this episode:
+- Panopto captions: MIC 7.1 Game Theory, MIC 7.2 Prisoner's Dilemma (Kelsey Jack), MIC 3.8 Auctions (Gautam Rao), the three videos on the Lecture 10 page
+- Group AI Memo assignment description PDF (Oprea)
+- Lecture 10 and Lecture 11 Canvas pages
+- 201A syllabus Lecture 10 line
+- Canvas assignment list (Class Preparation Item 3, PP4 attestation, midterm regrade request, memo upload)
+- 201A vault index note
+
+Note: Lecture 10 slides post shortly before class; not read
+
+Note: Warm-up exercise (one-question Canvas survey) not readable via student API; not described
+
+Note: Dominated strategies not in the videos; taught as labeled background
+
+Note: Optional Hermalin pp. 111-116 and SM Ch. 10 not used
+
+Original student study material. Not affiliated with or endorsed by Berkeley Haas.</itunes:summary>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">haas-prep-2026-09-28-mba201a</guid>
+      <enclosure url="https://yitzybitzyspider.github.io/haas-prep/haas-prep-201a-lecture10.mp3" length="3758976" type="audio/mpeg"/>
+      <itunes:duration>624</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
