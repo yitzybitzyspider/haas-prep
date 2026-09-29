@@ -12,7 +12,7 @@
 Every episode names its sources in the description and in the opening. Episodes are original explanation written by a student, not recordings or readings of any course material. Nothing here reproduces slides, cases, or textbook text.
 
 This is an independent student study project. It is not affiliated with, produced by, or endorsed by the Berkeley Haas School of Business or the University of California.</description>
-    <lastBuildDate>Mon, 28 Sep 2026 01:54:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 02:04:05 +0000</lastBuildDate>
     <itunes:author>Yitzy Rosenberg</itunes:author>
     <itunes:summary>Plain-English prep for upcoming Berkeley Haas FTMBA lectures. Each episode walks through the assigned material for one class session so you arrive ready to think instead of translate.
 
@@ -29,6 +29,57 @@ This is an independent student study project. It is not affiliated with, produce
       <itunes:name>Yitzy Rosenberg</itunes:name>
       <itunes:email>yitzy305@gmail.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Tue Sep 29 · MBA 205 Class 11: Please Continue</title>
+      <description>Meets 9:00am, N300 Chou Hall.
+
+Derren Brown's 2014 Milgram restaging: setup, gradual escalation, scripted prods, experts predicted almost nobody would go to the top and most did; the Class 11 page's five questions (what produces obedience, responsibility, intentions, hating it is no absolution, compliant traits); The Heist twist and the one subject who stopped because she knew the study; manager as the person in the lab coat. Networks from the optional Veritasium video (labelled): clustering plus shortcuts (Watts and Strogatz), strength of weak ties, hubs and preferential attachment (Barabasi), power as network position. Logistics: Teams@Haas check-ins this week (Canvas due Thu 2pm), Thursday readings.
+
+Sources used to write this episode:
+- Class 11 Canvas page
+- The Milgram Experiment (Derren Brown, YouTube Xxq4QtK3j0Y), full transcript
+- Veritasium network episode (YouTube CYlon2tvywA, optional), full transcript
+- 205 syllabus 9/29 row
+- Class 12 Canvas page
+- 205 announcements
+- Canvas assignment list
+- 205 vault index note
+
+Note: Class 11 slides not posted, not read
+
+Note: Optional Jackson, Uzzi and Dunlap, and Milgram book references not held
+
+Note: Networks section built from the optional video, labelled
+
+Original student study material. Not affiliated with or endorsed by Berkeley Haas.</description>
+      <itunes:summary>Meets 9:00am, N300 Chou Hall.
+
+Derren Brown's 2014 Milgram restaging: setup, gradual escalation, scripted prods, experts predicted almost nobody would go to the top and most did; the Class 11 page's five questions (what produces obedience, responsibility, intentions, hating it is no absolution, compliant traits); The Heist twist and the one subject who stopped because she knew the study; manager as the person in the lab coat. Networks from the optional Veritasium video (labelled): clustering plus shortcuts (Watts and Strogatz), strength of weak ties, hubs and preferential attachment (Barabasi), power as network position. Logistics: Teams@Haas check-ins this week (Canvas due Thu 2pm), Thursday readings.
+
+Sources used to write this episode:
+- Class 11 Canvas page
+- The Milgram Experiment (Derren Brown, YouTube Xxq4QtK3j0Y), full transcript
+- Veritasium network episode (YouTube CYlon2tvywA, optional), full transcript
+- 205 syllabus 9/29 row
+- Class 12 Canvas page
+- 205 announcements
+- Canvas assignment list
+- 205 vault index note
+
+Note: Class 11 slides not posted, not read
+
+Note: Optional Jackson, Uzzi and Dunlap, and Milgram book references not held
+
+Note: Networks section built from the optional video, labelled
+
+Original student study material. Not affiliated with or endorsed by Berkeley Haas.</itunes:summary>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">haas-prep-2026-09-29-mba205</guid>
+      <enclosure url="https://yitzybitzyspider.github.io/haas-prep/haas-prep-205-class11.mp3" length="2555136" type="audio/mpeg"/>
+      <itunes:duration>426</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Mon Sep 28 · MBA 200S Class 11: Categorical Models</title>
       <description>Meets Axe 9:00-11:00am, Oski 2:00-4:00pm, N570 Chou Hall.
