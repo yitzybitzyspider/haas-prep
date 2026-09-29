@@ -12,7 +12,7 @@
 Every episode names its sources in the description and in the opening. Episodes are original explanation written by a student, not recordings or readings of any course material. Nothing here reproduces slides, cases, or textbook text.
 
 This is an independent student study project. It is not affiliated with, produced by, or endorsed by the Berkeley Haas School of Business or the University of California.</description>
-    <lastBuildDate>Tue, 29 Sep 2026 02:40:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 02:45:40 +0000</lastBuildDate>
     <itunes:author>Yitzy Rosenberg</itunes:author>
     <itunes:summary>Plain-English prep for upcoming Berkeley Haas FTMBA lectures. Each episode walks through the assigned material for one class session so you arrive ready to think instead of translate.
 
@@ -124,6 +124,47 @@ Original student study material. Not affiliated with or endorsed by Berkeley Haa
       <guid isPermaLink="false">haas-prep-2026-09-29-mba202</guid>
       <enclosure url="https://yitzybitzyspider.github.io/haas-prep/haas-prep-202-class11.mp3" length="2188224" type="audio/mpeg"/>
       <itunes:duration>366</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Tue Sep 29 · INDENG 240 Lecture 10: The Switch That Turns a Decision On</title>
+      <description>Meets 11:00am, Genetics and Plant Bio 100.
+
+Labelled substitution: Lecture 10 has nothing posted; covers Lecture 9 (cancelled for the 11am section) plus Discussion 5. Logic examples 2-5 (same order, at least one of, needs both companions, two-or-more threshold via scale and shift, contrapositive note); power plant MILP with the switch constraint (expansion no more than cap times build decision, no products of variables); bulk-discount espresso with a linking binary and big-M; what if there is no upper limit (practical bound, derive from other constraints, tighter M from Discussion 5); food truck on/off with min and max; check both cases. Logistics: HW2 due Thu Oct 1, open Ed questions on Gurobi output and exam format, Exam 1 Oct 8, Charlie's Monday office hours.
+
+Sources used to write this episode:
+- Lecture 9 handwritten notes (rendered, 4 ink pages)
+- IEOR 240 Typed Notes Sep 28 2026, sections 8.7-9.4
+- Discussion 5 notes (Sep 25)
+- Ed threads through Sep 28
+- 240 vault index note
+
+Note: No Lecture 10 pre-notes or Ed post; episode is a labelled substitution covering Lecture 9
+
+Note: One-line Lecture 10 guess (either-or constraints) labelled as a guess
+
+Original student study material. Not affiliated with or endorsed by Berkeley Haas.</description>
+      <itunes:summary>Meets 11:00am, Genetics and Plant Bio 100.
+
+Labelled substitution: Lecture 10 has nothing posted; covers Lecture 9 (cancelled for the 11am section) plus Discussion 5. Logic examples 2-5 (same order, at least one of, needs both companions, two-or-more threshold via scale and shift, contrapositive note); power plant MILP with the switch constraint (expansion no more than cap times build decision, no products of variables); bulk-discount espresso with a linking binary and big-M; what if there is no upper limit (practical bound, derive from other constraints, tighter M from Discussion 5); food truck on/off with min and max; check both cases. Logistics: HW2 due Thu Oct 1, open Ed questions on Gurobi output and exam format, Exam 1 Oct 8, Charlie's Monday office hours.
+
+Sources used to write this episode:
+- Lecture 9 handwritten notes (rendered, 4 ink pages)
+- IEOR 240 Typed Notes Sep 28 2026, sections 8.7-9.4
+- Discussion 5 notes (Sep 25)
+- Ed threads through Sep 28
+- 240 vault index note
+
+Note: No Lecture 10 pre-notes or Ed post; episode is a labelled substitution covering Lecture 9
+
+Note: One-line Lecture 10 guess (either-or constraints) labelled as a guess
+
+Original student study material. Not affiliated with or endorsed by Berkeley Haas.</itunes:summary>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">haas-prep-2026-09-29-indeng240</guid>
+      <enclosure url="https://yitzybitzyspider.github.io/haas-prep/haas-prep-240-lecture10.mp3" length="3612096" type="audio/mpeg"/>
+      <itunes:duration>600</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
