@@ -12,7 +12,7 @@
 Every episode names its sources in the description and in the opening. Episodes are original explanation written by a student, not recordings or readings of any course material. Nothing here reproduces slides, cases, or textbook text.
 
 This is an independent student study project. It is not affiliated with, produced by, or endorsed by the Berkeley Haas School of Business or the University of California.</description>
-    <lastBuildDate>Tue, 06 Oct 2026 15:58:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 16:33:20 +0000</lastBuildDate>
     <itunes:author>Yitzy Rosenberg</itunes:author>
     <itunes:summary>Plain-English prep for upcoming Berkeley Haas FTMBA lectures. Each episode walks through the assigned material for one class session so you arrive ready to think instead of translate.
 
@@ -73,6 +73,55 @@ Original student study material. Not affiliated with or endorsed by Berkeley Haa
       <guid isPermaLink="false">haas-prep-2026-10-06-mba202</guid>
       <enclosure url="https://yitzybitzyspider.github.io/haas-prep/haas-prep-202-class12.mp3" length="6257664" type="audio/mpeg"/>
       <itunes:duration>1044</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Tue Oct 6 · INDENG 240 Lecture 12: Review Day, and the Lecture You Missed Hearing About</title>
+      <description>Meets 11:00am, Genetics and Plant Bio 100.
+
+Midterm 1 logistics (Thu Oct 8 11-12:30, GPB 100 / Physics 3, 75 min, no electronics or cheat sheet, blank T/F 55%, scope through Oct 1, no Gurobi; new practice problems; Tue OH 2-3). Lecture 11: assignment problem (residents to hospitals, ads, jobs to machines), labels are not quantities so use binary pairings, row and column constraints, shadow price as value of raising a right hand side; feasibility problems, chess tournament scheduling with triple indexed binaries, maximize zero, preference objectives (finale on day 5, NFL with Gurobi), three constraint families including the consecutive fairness rule. Ed: nonnegative combination is an infeasibility certificate.
+
+Sources used to write this episode:
+- Ed Midterm 1 announcement and scope reply
+- Ed additional practice problems post
+- Ed infeasibility certificate Q&amp;A
+- Lecture 11 notes (handwritten, rendered)
+- Lecture 11 Kaltura transcript (truncated)
+- 240 course summary
+- 240 vault index note
+
+Note: Not a preview of the review session itself; covers Lecture 11
+
+Note: New practice problems attachment not opened
+
+Note: Discussion 6 review handout (handwritten) not read
+
+Original student study material. Not affiliated with or endorsed by Berkeley Haas.</description>
+      <itunes:summary>Meets 11:00am, Genetics and Plant Bio 100.
+
+Midterm 1 logistics (Thu Oct 8 11-12:30, GPB 100 / Physics 3, 75 min, no electronics or cheat sheet, blank T/F 55%, scope through Oct 1, no Gurobi; new practice problems; Tue OH 2-3). Lecture 11: assignment problem (residents to hospitals, ads, jobs to machines), labels are not quantities so use binary pairings, row and column constraints, shadow price as value of raising a right hand side; feasibility problems, chess tournament scheduling with triple indexed binaries, maximize zero, preference objectives (finale on day 5, NFL with Gurobi), three constraint families including the consecutive fairness rule. Ed: nonnegative combination is an infeasibility certificate.
+
+Sources used to write this episode:
+- Ed Midterm 1 announcement and scope reply
+- Ed additional practice problems post
+- Ed infeasibility certificate Q&amp;A
+- Lecture 11 notes (handwritten, rendered)
+- Lecture 11 Kaltura transcript (truncated)
+- 240 course summary
+- 240 vault index note
+
+Note: Not a preview of the review session itself; covers Lecture 11
+
+Note: New practice problems attachment not opened
+
+Note: Discussion 6 review handout (handwritten) not read
+
+Original student study material. Not affiliated with or endorsed by Berkeley Haas.</itunes:summary>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">haas-prep-2026-10-06-indeng240</guid>
+      <enclosure url="https://yitzybitzyspider.github.io/haas-prep/haas-prep-240-lecture12.mp3" length="3096864" type="audio/mpeg"/>
+      <itunes:duration>516</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
