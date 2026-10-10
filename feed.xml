@@ -12,7 +12,7 @@
 Every episode names its sources in the description and in the opening. Episodes are original explanation written by a student, not recordings or readings of any course material. Nothing here reproduces slides, cases, or textbook text.
 
 This is an independent student study project. It is not affiliated with, produced by, or endorsed by the Berkeley Haas School of Business or the University of California.</description>
-    <lastBuildDate>Sat, 10 Oct 2026 19:38:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 19:50:26 +0000</lastBuildDate>
     <itunes:author>Yitzy Rosenberg</itunes:author>
     <itunes:summary>Plain-English prep for upcoming Berkeley Haas FTMBA lectures. Each episode walks through the assigned material for one class session so you arrive ready to think instead of translate.
 
@@ -29,6 +29,49 @@ This is an independent student study project. It is not affiliated with, produce
       <itunes:name>Yitzy Rosenberg</itunes:name>
       <itunes:email>yitzy305@gmail.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Thu Oct 15 · MBA 202 Final Review: Six Things That Decide Thursday</title>
+      <description>Meets Thu Oct 15, 9:00-11:00am, N470 (Oski) and N570 (Axe).
+
+Rules (closed book, basic calculator, no phones), CFO panel question, sample final problem shapes. Spine: the profit-and-cash test, cash flow mechanics, the three reserves, inventory methods, non-current assets and goodwill, ratios and red flags. Traps reel and last-hour plan.
+
+Sources used to write this episode:
+- 202 course summary (all sections)
+- 202 syllabus
+- 202 Week 6 and Week 7 announcements
+- 202 Sample Final with solutions
+- Last Class deck with solutions
+- ESG case and ESG slides with solutions
+
+Note: CFO panel Oct 2 not recorded and no summary exists; content not described
+
+Note: Fri Oct 9 review section not read
+
+Original student study material. Not affiliated with or endorsed by Berkeley Haas.</description>
+      <itunes:summary>Meets Thu Oct 15, 9:00-11:00am, N470 (Oski) and N570 (Axe).
+
+Rules (closed book, basic calculator, no phones), CFO panel question, sample final problem shapes. Spine: the profit-and-cash test, cash flow mechanics, the three reserves, inventory methods, non-current assets and goodwill, ratios and red flags. Traps reel and last-hour plan.
+
+Sources used to write this episode:
+- 202 course summary (all sections)
+- 202 syllabus
+- 202 Week 6 and Week 7 announcements
+- 202 Sample Final with solutions
+- Last Class deck with solutions
+- ESG case and ESG slides with solutions
+
+Note: CFO panel Oct 2 not recorded and no summary exists; content not described
+
+Note: Fri Oct 9 review section not read
+
+Original student study material. Not affiliated with or endorsed by Berkeley Haas.</itunes:summary>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">haas-prep-2026-10-15-mba202</guid>
+      <enclosure url="https://yitzybitzyspider.github.io/haas-prep/haas-prep-202-final-review.mp3" length="2786400" type="audio/mpeg"/>
+      <itunes:duration>462</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Tue Oct 13 · MBA 200S Final Review: Six Things That Decide Tuesday</title>
       <description>Meets Tue Oct 13, 9:00-11:00am, two hours.
