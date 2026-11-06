@@ -12,7 +12,7 @@
 Every episode names its sources in the description and in the opening. Episodes are original explanation written by a student, not recordings or readings of any course material. Nothing here reproduces slides, cases, or textbook text.
 
 This is an independent student study project. It is not affiliated with, produced by, or endorsed by the Berkeley Haas School of Business or the University of California.</description>
-    <lastBuildDate>Thu, 05 Nov 2026 06:39:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 04:40:51 +0000</lastBuildDate>
     <itunes:author>Yitzy Rosenberg</itunes:author>
     <itunes:summary>Plain-English prep for upcoming Berkeley Haas FTMBA lectures. Each episode walks through the assigned material for one class session so you arrive ready to think instead of translate.
 
@@ -29,6 +29,59 @@ This is an independent student study project. It is not affiliated with, produce
       <itunes:name>Yitzy Rosenberg</itunes:name>
       <itunes:email>yitzy305@gmail.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Fri Nov 6 · MBA 206 Class 5: The Watch That Had to Find Out What It Was</title>
+      <description>Meets Axe Fri 2:00-4:00pm, Oski Fri 9:00-11:00am, N470 Chou Hall.
+
+Logistics (Pre-Class 5 closes tonight; Friday class, laptops OK for Red Bull; Factor Analysis and Pricing Analysis due Fri 11:59pm; Class 6 Price Bundling, QSA 1, Polarizing Brand). Apple Watch launch hype vs disappointment, from fashion to health positioning, no-smartwatch question, noun as FOR and adjective as POD, iPhone-only cap, diffusion curve and chasm, take-aways; Red Bull research steps, data layout, four LLM advisors, outcome vs validity, four limits, goal-rival-segment guide, Three Cs.
+
+Sources used to write this episode:
+- 206 Class 5 and Class 6 Canvas pages
+- Pre-Class 5, Factor Analysis and Pricing Analysis assignment texts (bCourses API)
+- Apple Watch (B): Would You Bet On It? (full case)
+- Red Bull exercise handout and spreadsheet
+- PreLecture 5 deck (48 slides, text and images)
+- Lecture 4 deck take-aways
+- 206 announcements
+- 206 vault index note and course summary
+- Axe Class 4 transcript (Panopto), for the shape of Friday
+
+Note: PreLecture deck is redacted; Red Bull answers not in it and exercise deliberately not worked
+
+Note: No transcript of Thursday Blue/Gold Class 5 used
+
+Note: Pre-Class 5 still open at publish: slide 11 example products not narrated
+
+Original student study material. Not affiliated with or endorsed by Berkeley Haas.</description>
+      <itunes:summary>Meets Axe Fri 2:00-4:00pm, Oski Fri 9:00-11:00am, N470 Chou Hall.
+
+Logistics (Pre-Class 5 closes tonight; Friday class, laptops OK for Red Bull; Factor Analysis and Pricing Analysis due Fri 11:59pm; Class 6 Price Bundling, QSA 1, Polarizing Brand). Apple Watch launch hype vs disappointment, from fashion to health positioning, no-smartwatch question, noun as FOR and adjective as POD, iPhone-only cap, diffusion curve and chasm, take-aways; Red Bull research steps, data layout, four LLM advisors, outcome vs validity, four limits, goal-rival-segment guide, Three Cs.
+
+Sources used to write this episode:
+- 206 Class 5 and Class 6 Canvas pages
+- Pre-Class 5, Factor Analysis and Pricing Analysis assignment texts (bCourses API)
+- Apple Watch (B): Would You Bet On It? (full case)
+- Red Bull exercise handout and spreadsheet
+- PreLecture 5 deck (48 slides, text and images)
+- Lecture 4 deck take-aways
+- 206 announcements
+- 206 vault index note and course summary
+- Axe Class 4 transcript (Panopto), for the shape of Friday
+
+Note: PreLecture deck is redacted; Red Bull answers not in it and exercise deliberately not worked
+
+Note: No transcript of Thursday Blue/Gold Class 5 used
+
+Note: Pre-Class 5 still open at publish: slide 11 example products not narrated
+
+Original student study material. Not affiliated with or endorsed by Berkeley Haas.</itunes:summary>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">haas-prep-2026-11-06-mba206</guid>
+      <enclosure url="https://yitzybitzyspider.github.io/haas-prep/haas-prep-206-class5.mp3" length="3687984" type="audio/mpeg"/>
+      <itunes:duration>612</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Thu Nov 5 · MBA 205D Week 2: Identity</title>
       <description>Meets N570 Chou Hall, 9:00am and 2:00pm sections; 205D.4B at 9:00 per calendar.
